@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    width: 1440px;
+    height: 1530px;
+}
+
+header {
+    margin: 0 130px;
+    max-width: 1180px;
+    height: 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Ford {
+    width: 180px;
+    height: 96px;
+}
+
+nav {
+    width: 469px;
+    height: 26px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #2414DB;
+
+
+}
+
+.Rednav {
+    color: #F50808;
+
+}
+
+.photo {
+    height: 478px;
+}
+
+section {
+    width: 780px;
+    height: 116px;
+    margin-left: 130px;
+    margin-right: 530px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+h1 {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 209.91175842285156px;
+    height: 44px;
+    color: #17326E;
+    margin-bottom: 24px;
+}
+
+p {
+    width: 780px;
+    height: 48px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #090346;
+}
+
+.Car-photos {
+    display: flex;
+    height: 439px;
+    background-color: #EBEBF0;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    height: 161px;
+    background-color: #19126B;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 130px;
+}
+
+footer ul {
+    display: flex;
+    width: 220px;
+    height: 60px;
+}
+
+i {
+    width: 282px;
+    height: 19px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
